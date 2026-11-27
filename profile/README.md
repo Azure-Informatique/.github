@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo-azure.svg" width="112" alt="Logo Azure Informatique">
+<img src="logo-azure.png" width="112" alt="Logo Azure Informatique">
 
 # Azure Informatique
 
